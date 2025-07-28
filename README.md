@@ -18,7 +18,7 @@ This project demonstrates fine-tuning Microsoft's DeBERTa (Decoding-enhanced BER
 
 ## 3. Fine-Tuning
    - Used Trainer API from Hugging Face
-   - Trained for 3 epochs on a sample of 20000 reviews
+   - Trained for 3 epochs on a sample of 15000 reviews
    - Evaluation metrics recorded: Accuracy, Precision, Recall, F1-Score
 
 ## 4. Evaluation
